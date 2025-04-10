@@ -1,0 +1,168 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "Instagram",
+            "children": [
+                {
+                    "name": "Happiness",
+                    "value": 170
+                },
+                {
+                    "name": "Anxiety",
+                    "value": 30
+                },
+                {
+                    "name": "Sadness",
+                    "value": 20
+                },
+                {
+                    "name": "Neutral",
+                    "value": 20
+                },
+                {
+                    "name": "Anger",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "name": "Twitter",
+            "children": [
+                {
+                    "name": "Anger",
+                    "value": 80
+                },
+                {
+                    "name": "Anxiety",
+                    "value": 20
+                },
+                {
+                    "name": "Sadness",
+                    "value": 50
+                },
+                {
+                    "name": "Neutral",
+                    "value": 20
+                },
+                {
+                    "name": "Happiness",
+                    "value": 10
+                },
+                {
+                    "name": "Boredom",
+                    "value": 20
+                }
+            ]
+        },
+        {
+            "name": "Facebook",
+            "children": [
+                {
+                    "name": "Neutral",
+                    "value": 70
+                },
+                {
+                    "name": "Sadness",
+                    "value": 30
+                },
+                {
+                    "name": "Anxiety",
+                    "value": 50
+                },
+                {
+                    "name": "Boredom",
+                    "value": 40
+                }
+            ]
+        },
+        {
+            "name": "LinkedIn",
+            "children": [
+                {
+                    "name": "Boredom",
+                    "value": 70
+                },
+                {
+                    "name": "Neutral",
+                    "value": 20
+                },
+                {
+                    "name": "Anxiety",
+                    "value": 20
+                },
+                {
+                    "name": "Sadness",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "name": "Whatsapp",
+            "children": [
+                {
+                    "name": "Anxiety",
+                    "value": 20
+                },
+                {
+                    "name": "Anger",
+                    "value": 30
+                },
+                {
+                    "name": "Neutral",
+                    "value": 20
+                },
+                {
+                    "name": "Happiness",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "name": "Telegram",
+            "children": [
+                {
+                    "name": "Boredom",
+                    "value": 10
+                },
+                {
+                    "name": "Neutral",
+                    "value": 30
+                },
+                {
+                    "name": "Anxiety",
+                    "value": 10
+                },
+                {
+                    "name": "Sadness",
+                    "value": 20
+                },
+                {
+                    "name": "Anger",
+                    "value": 10
+                }
+            ]
+        },
+        {
+            "name": "Snapchat",
+            "children": [
+                {
+                    "name": "Sadness",
+                    "value": 30
+                },
+                {
+                    "name": "Anxiety",
+                    "value": 20
+                },
+                {
+                    "name": "Happiness",
+                    "value": 10
+                },
+                {
+                    "name": "Neutral",
+                    "value": 20
+                }
+            ]
+        }
+    ]
+}

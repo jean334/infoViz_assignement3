@@ -1,0 +1,17 @@
+.controller-container {
+    display: flex;
+    align-items: center; 
+    gap: 20px;
+  }
+  
+.slider-container, .toggle-container {
+    flex: 1; 
+}
+
+.slider-container{
+    margin-left: 20px;
+}
+
+.toggle-container{
+    margin-top: -60px;
+}
